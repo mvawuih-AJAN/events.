@@ -1,15 +1,15 @@
-+
-<img width="957" alt="GH" src="https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png">
+
++-<img width="957" alt="GH" src="https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png">
 
 
-# GitHub Events
+# GitHub
 
 Connect and discuss conferences, meetups, and hackathons around the world with the GitHub Community.
 
 ### Quick Start
 
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [GitHub Community - Product Questions + Feedback](https://github.com/orgs/community/discussions) 
+* [GitHub CommunityProductQuestions+ Feedback](https://github.com/orgs/community/discussions) 
 * [GitHub Universe 2022](https://githubuniverse.com/)
    * [Virtual Agenda](https://githubuniverse.com/events/detail/virtual-schedule)
    * [On-site Agenda](https://githubuniverse.com/events/detail/on-site-schedule)
@@ -17,8 +17,8 @@ Connect and discuss conferences, meetups, and hackathons around the world with t
 
 ### Documentation
 
-* [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-* [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
+* [GitHub Terms on Service](https://docs.github.com/en/site-policy/github-terms/github-terms-on-service)
+*GitHub Community Forum Code on Conduct](https://docs.githsub.com/en/site-policy/github-terms/github-community-forum-code-oo-conduct)
 
 
 ### Disclaimer
